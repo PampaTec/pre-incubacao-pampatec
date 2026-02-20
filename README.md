@@ -6,18 +6,17 @@ Bem-vindo à jornada de pré-incubação do **PampaTec**! Este repositório é o
 
 ## 📋 Como Começar (Para Empreendedores)
 
-> 📖 **Primeira vez usando GitHub ou Antigravity?** Siga o [Tutorial do GitHub e Antigravity](Tutorial_GitHub_Antigravity.md) com o passo a passo completo para iniciantes.
-
 ### 1. Pré-requisitos
 - [Google Antigravity](https://gemini.google.com/antigravity) instalado no seu computador
 - Git instalado no seu computador
 - Conta no GitHub
+> 📖 **Primeira vez usando GitHub ou Antigravity?** Siga o [Tutorial do GitHub e Antigravity](Tutorial_GitHub_Antigravity.md) com o passo a passo completo para iniciantes.
 
 ### 2. Clone o repositório do seu time
 ```bash
 # Exemplo de URL de um time dentro da organização
-git clone https://github.com/pampatec/nome-da-sua-startup.git
-cd nome-da-sua-startup
+git clone https://github.com/PampaTec/nome-do-time.git
+cd nome-do-time
 ```
 
 ### 3. Abra no Antigravity
@@ -46,7 +45,7 @@ Para gerenciar múltiplos times de forma profissional e centralizada, recomendam
 
 #### Passo 1 — Criar a Organização (Só uma vez)
 1. No GitHub, clique no seu perfil e vá em **Settings** → **Organizations** → **New organization**.
-2. Escolha o plano "Free" e dê um nome (ex: `pampatec`).
+2. Escolha o plano "Free" e dê um nome (ex: `PampaTec`).
 
 #### Passo 2 — Subir o Template na Organização
 1. Crie um repositório chamado `jornada-pre-incubacao-template` dentro da organização.
