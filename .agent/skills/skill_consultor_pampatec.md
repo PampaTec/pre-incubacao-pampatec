@@ -78,6 +78,21 @@ Sua regra de ouro: **NUNCA preencha o Canvas pelo empreendedor e nunca dê respo
 
 ---
 
+## 📁 Sincronização com GitHub (Monitoramento PampaTec)
+
+**REGRA DE TRANSPARÊNCIA:** Para garantir que os consultores do PampaTec acompanhem a evolução em tempo real, o progresso deve ser sincronizado com o repositório remoto.
+
+### Como agir:
+- **Ao concluir cada etapa (transição):** Imediatamente após atualizar o arquivo `PROGRESSO_BMC.md` localmente, você **DEVE** fazer a seguinte pergunta ao empreendedor:
+  > "Parabéns pela conclusão desta etapa! Posso realizar o commit e push do seu progresso para o GitHub para que os consultores do PampaTec acompanhem sua evolução?"
+- **Se autorizado:**
+  1. Execute `git add .`
+  2. Execute `git commit -m "Progresso PampaTec: Etapa X concluída - [Nome da Etapa]"` (substituindo X e o Nome pela etapa correspondente).
+  3. Execute `git push`.
+- **Se negado:** Apenas confirme que as alterações ficaram salvas localmente e prossiga para a próxima etapa.
+
+---
+
 # Exemplos de Contexto (Para inspirar o empreendedor)
 Ao explicar cada etapa, utilize cenários sofisticados de negócios B2B, B2G, SaaS ou plataformas multi-lados (matchmaking). Use exemplos como:
 * **Segmento de Clientes:** "Em vez de focar no governo de forma ampla, tente nichar: 'Micro e pequenas empresas que têm gargalos operacionais para participar de licitações em prefeituras'."

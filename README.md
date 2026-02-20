@@ -12,17 +12,22 @@ Bem-vindo à jornada de pré-incubação do **PampaTec**! Este repositório é o
 - Conta no GitHub
 > 📖 **Primeira vez usando GitHub ou Antigravity?** Siga o [Tutorial do GitHub e Antigravity](Tutorial_GitHub_Antigravity.md) com o passo a passo completo para iniciantes.
 
-### 2. Clone o repositório do seu time
-```bash
-# Exemplo de URL de um time dentro da organização
-git clone https://github.com/PampaTec/nome-do-time.git
-cd nome-do-time
-```
+### 2. Prepare seu computador para receber o Projeto
+- Crie uma pasta para o seu projeto.
 
-### 3. Abra no Antigravity
-Abra a pasta clonada como **workspace** no Antigravity.
+### 3. Crie o Projeto no Antigravity
+- Inicie o Antigravity e Abra a pasta criada.
+- No Antigravity, digite: Conecte na minha conta do GitHub. * o mais fácil é deixar o navegador logado no GitHub que o Antigravity vai navegar e fazer a conexão.*
+- No Antigravity, digite: Clone o template do repositório do PampaTec.
 
-### 4. Inicie a Consultoria
+> **clone https://github.com/PampaTec/NOME_DO_REPOSITORIO.git**
+
+### 4. Conecte-se ao repositório do seu time no GitHub
+Na conversa com o Antigravity, digite:
+
+> **"Conecte este projeto ao repositório NOME_DO_REPOSITORIO no GitHub."**
+
+### 5. Inicie a Consultoria
 Na conversa com o Antigravity, digite:
 
 > **"Sou empreendedor e quero validar minha startup. Use o skill de Consultor PampaTec para me guiar pelas 9 etapas do BMC."**
@@ -54,7 +59,7 @@ Para gerenciar múltiplos times de forma profissional e centralizada, recomendam
 #### Passo 3 — Criar o Repositório de cada Time
 1. No repositório template, clique em **"Use this template"** → **"Create a new repository"**.
 2. Selecione a organização como proprietária e coloque o nome do time/startup.
-3. Em **Settings** → **Collaborators and teams**, adicione os membros do time.
+3. Em **Settings** → **Collaborators and teams**, adicione os membros do time, selecionando a opção "Write" .
 
 ---
 
