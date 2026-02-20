@@ -23,11 +23,18 @@ cd nome-da-sua-startup
 ### 3. Abra no Antigravity
 Abra a pasta clonada como **workspace** no Antigravity.
 
+### 4. Inicie a Consultoria
+Na conversa com o Antigravity, digite:
+
+> **"Sou empreendedor e quero validar minha startup. Use o skill de Consultor PampaTec para me guiar pelas 9 etapas do BMC."**
+
+O Antigravity assumirá o papel de consultor e guiará você por todas as etapas!
+
 ---
 
 ## 👥 Gestão e Acompanhamento (Para Mentores)
 
-Para gerenciar múltiplos times de forma profissional e centralizada, recomendamos o uso de uma **Organização no GitHub** (ex: `github.com/pampatec-incubadora`).
+Para gerenciar múltiplos times de forma profissional e centralizada, recomendamos o uso de uma **Organização no GitHub** (ex: `github.com/PampaTec`).
 
 ### 📐 Por que usar uma Organização?
 1. **Centralização:** Todos os projetos de todos os times ficam em um único lugar.
@@ -39,10 +46,10 @@ Para gerenciar múltiplos times de forma profissional e centralizada, recomendam
 
 #### Passo 1 — Criar a Organização (Só uma vez)
 1. No GitHub, clique no seu perfil e vá em **Settings** → **Organizations** → **New organization**.
-2. Escolha o plano "Free" e dê um nome (ex: `pampatec-incubadora`).
+2. Escolha o plano "Free" e dê um nome (ex: `pampatec`).
 
 #### Passo 2 — Subir o Template na Organização
-1. Crie um repositório chamado `jornada-bmc-template` dentro da organização.
+1. Crie um repositório chamado `jornada-pre-incubacao-template` dentro da organização.
 2. Ative a opção **"Template repository"** nas configurações (Settings → General) para facilitar o fork pelos times.
 
 #### Passo 3 — Criar o Repositório de cada Time
